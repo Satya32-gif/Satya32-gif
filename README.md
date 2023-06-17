@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Satya32
+- 👋 Hi, I’m Satya Prakash
 - 👀 I’m interested in Programming and painting.
 - 🌱 I’m currently learning Full stack web developement.
-- 💞️ I’m looking to collaborate on Frontend and android developement.
+- 💞️ I’m looking to collaborate on Frontend and Backend developement.
 - 📫 To reach me go for : satyanayak7890@gmail.com
 
 <!---
